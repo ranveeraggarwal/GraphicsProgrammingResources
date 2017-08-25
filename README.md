@@ -6,8 +6,8 @@ Articles, links, snippets, and useful resources for the Graphics Programming com
 
 So, in no particular order, we present the following:
 
-
 ## Tools
+
 ---
 
 ### Graphic Applications
@@ -47,16 +47,16 @@ So, in no particular order, we present the following:
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Vim](https://vim.sourceforge.io/)
 
-
 ## Books And Their Web Resources
+
 ---
 
 - [Anton's OpenGL4 Tutorials](http://antongerdelan.net/opengl/#ebook)
 - [Computer Graphics: Principles and Practice](http://dept.cs.williams.edu/~morgan/cgpp/)
 - [Real-Time Rendering](http://www.realtimerendering.com/)
 
-
 ## Engines / SDKs
+
 ---
 
 ### Engines
@@ -72,6 +72,8 @@ So, in no particular order, we present the following:
 - [Urho3D](https://github.com/urho3d/Urho3D)
 
 ### Rendering / General Purpose SDKs
+
+- [nVidia Falcor](https://github.com/NVIDIAGameWorks/Falcor) Real-time rendering framework supporting DX 12 and Vulkan.
 - [BGFX Github source](https://github.com/bkaradzic/bgfx) as well as [documentation here](https://bkaradzic.github.io/bgfx/overview.html)
 - [Cinder](https://libcinder.org/)
 - [Epoxy (Successor to GLEW)](https://github.com/anholt/libepoxy)
@@ -83,8 +85,8 @@ So, in no particular order, we present the following:
 - [SDL](https://www.libsdl.org/index.php)
 - [SFML](https://www.sfml-dev.org/)
 
-
 ## APIs
+
 ---
 
 ### OpenGL
@@ -94,19 +96,19 @@ So, in no particular order, we present the following:
 - [Awesome OpenGL](https://github.com/eug/awesome-opengl)
 
 #### Tutorials
+
 - [Learn OpenGL](http://learnopengl.com/)
 - [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/index.html)
 - [OpenGL Introduction](https://open.gl)
 - [OpenGL + C# + OpenTK](http://dreamstatecoding.blogspot.ca/p/opengl4-with-opentk-tutorials.html)
 
-
 ### D3D
 
 #### Learning
+
 - [Introduction to D3D 11](https://www.3dgep.com/introduction-to-directx-11/)
 - [Tightening Up The Graphics: Tools and Techniques](https://docs.google.com/presentation/d/1LQUMIld4SGoQVthnhT1scoA3k4Sg0as14G4NeSiSgFU/mobilepresent?slide=id.p)
 - [Rastertek Tutorials](http://www.rastertek.com/tutdx11s2.html)
-
 
 ### Vulkan
 
@@ -133,8 +135,8 @@ So, in no particular order, we present the following:
 - [The Metal Framework](http://metalkit.org/)
 - [Ray Wenderlich tutorials](https://www.raywenderlich.com/?s=metal)
 
-
 ## Programming
+
 ---
 
 ### Shaders
@@ -144,11 +146,13 @@ So, in no particular order, we present the following:
 ### C++
 
 #### Libraries and Tools
+
 - [Awesome C++](https://github.com/fffaraz/awesome-cpp)
 - [C++ Shell](http://cpp.sh)
 - [Compiler Explorer (not just C++)](https://gcc.godbolt.org)
 
 #### Learning
+
 - [Fred: C++ Notes](http://www.fredosaurus.com/notes-cpp/index.html)
 - [Learn C++](http://www.learncpp.com)
 - [Memory and C++ Debugging at EA](https://www.youtube.com/watch?v=8KIvWJUYbDA)
@@ -158,33 +162,29 @@ So, in no particular order, we present the following:
 
 - [Introduction to C# Graphics](https://github.com/Nuclearfossil/IntroToCSharpGraphics)
 
-
 ## Siggraph Articles
+
 ---
 
 ### 2017
 
 - [Advances in Real-Time Rendering in Games](http://advances.realtimerendering.com/s2017/index.html)
 
-
 ## WebGL
 
 - [WebGL Insights: Free PDF version of the book](http://webglinsights.com)
 - [Hackery, Math & Design](http://acko.net)
-
 
 ## Math
 
 - [Immersive Math: Immersive Linear Algebra](http://immersivemath.com/ila/index.html)
 - [Linear Interpolation - Past, Present and Future](https://fgiesen.wordpress.com/2012/08/15/linear-interpolation-past-present-and-future/)
 
-
 ## Various
 
 - [Intel's Intrinsics Guide](https://software.intel.com/sites/landingpage/IntrinsicsGuide/)
 - [x86-64 optimization papers](http://www.agner.org/optimize/#manuals)
 - [UC Davis Introduction to Computer Graphics](https://youtu.be/01YSK5gIEYQ)
-
 
 ## Code Of Conduct
 
