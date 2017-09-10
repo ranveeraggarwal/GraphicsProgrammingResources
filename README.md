@@ -109,6 +109,12 @@ So, in no particular order, we present the following:
 - [Introduction to D3D 11](https://www.3dgep.com/introduction-to-directx-11/)
 - [Tightening Up The Graphics: Tools and Techniques](https://docs.google.com/presentation/d/1LQUMIld4SGoQVthnhT1scoA3k4Sg0as14G4NeSiSgFU/mobilepresent?slide=id.p)
 - [Rastertek Tutorials](http://www.rastertek.com/tutdx11s2.html)
+- [Braynzar Soft Tutorials](https://www.braynzarsoft.net/)
+- [digitalerr0r's Blog](https://digitalerr0r.wordpress.com/2015/08/19/quickstart-directx-12-programming/)
+
+#### Books
+
+- [Introduction to 3D Game Programming with DirectX 12 by Frank Luna](https://www.goodreads.com/book/show/26866494-introduction-to-3d-game-programming-with-directx-12)
 
 ### Vulkan
 
